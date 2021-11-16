@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    background: linear-gradient(#061a69,#4a0f7a);
+    color:bisque;
+}
+img{
+    height:350px;
+    width:350px;
+}
